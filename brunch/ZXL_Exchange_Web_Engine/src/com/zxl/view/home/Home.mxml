@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window:ZxlWindow
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	xmlns:window="com.zxl.ui.window.*"
+	xmlns:zxl="com.zxl.library.Button.*"
+	xmlns:flexlib="flexlib.containers.*"
+	width="100%" height="100%"
+    creationComplete="onCreationComplete();"
+	>
+	<mx:Style source="css/flex_skin.css" />
+	<mx:Script>
+		<![CDATA[
+			import flexlib.controls.tabBarClasses.SuperTab;
+			import com.zxl.register.RegIcon;
+			import com.zxl.register.RegLogoImg;
+			
+			public var viewPoint:LinkButton;
+			public var addPoint:LinkButton;
+			public var viewUser:LinkButton;
+			public var addUser:LinkButton;
+			public var viewTranslate:LinkButton;
+			public var addTranslate:LinkButton;
+			public var viewBusiness:LinkButton;
+			public var addBusiness:LinkButton;
+			public var viewDeposit:LinkButton;
+			public var dayReport:LinkButton;
+			public var monthReport:LinkButton;
+			public var yearReport:LinkButton;
+			
+			private static const _tabNavigatorClosePolicy:String = SuperTab.CLOSE_ALWAYS;
+			
+			private function onCreationComplete():void
+			{
+				viewPoint = new LinkButton();
+				viewPoint.label = "网点查询";
+				viewPoint.setStyle("icon",RegIcon.search);
+				this.pointManage.addChild(viewPoint);
+				
+				addPoint = new LinkButton();
+				addPoint.label = "添加网点";
+				addPoint.setStyle("icon",RegIcon.add);
+				this.pointManage.addChild(addPoint);
+				
+				viewUser = new LinkButton();
+				viewUser.label = "用户查询";
+				viewUser.setStyle("icon",RegIcon.search);
+				this.userManage.addChild(viewUser);
+				
+				addUser = new LinkButton();
+				addUser.label = "添加用户";
+				addUser.setStyle("icon",RegIcon.add);
+				this.userManage.addChild(addUser);
+				
+				viewTranslate = new LinkButton();
+				viewTranslate.label = "调度查询";
+				viewTranslate.setStyle("icon",RegIcon.search);
+				this.translateManage.addChild(viewTranslate);
+				
+				addTranslate = new LinkButton();
+				addTranslate.label = "调出现金";
+				addTranslate.setStyle("icon",RegIcon.add);
+				this.translateManage.addChild(addTranslate);
+				
+				viewBusiness = new LinkButton();
+				viewBusiness.label = "业务查询";
+				viewBusiness.setStyle("icon",RegIcon.search);
+				this.businessManage.addChild(viewBusiness);
+				
+				addBusiness = new LinkButton();
+				addBusiness.label = "新增业务";
+				addBusiness.setStyle("icon",RegIcon.add);
+				this.businessManage.addChild(addBusiness);
+				
+				viewDeposit = new LinkButton();
+				viewDeposit.label = "备付金查询";
+				viewDeposit.setStyle("icon",RegIcon.search);
+				this.depositManage.addChild(viewDeposit);
+				
+				dayReport = new LinkButton();
+				dayReport.label = "交易日报表";
+				dayReport.setStyle("icon",RegIcon.day);
+				this.reportManage.addChild(dayReport);
+				
+				monthReport = new LinkButton();
+				monthReport.label = "交易月报表";
+				monthReport.setStyle("icon",RegIcon.month);
+				this.reportManage.addChild(monthReport);
+				
+				yearReport = new LinkButton();
+				yearReport.label = "交易年报表";
+				yearReport.setStyle("icon",RegIcon.year);
+				this.reportManage.addChild(yearReport);
+				
+				if(ApplicationFacade.getInstance().hasMediator(HomeMediator.NAME)){
+					ApplicationFacade.getInstance().removeMediator(HomeMediator.NAME);
+				}
+				var homeMediator:HomeMediator = new HomeMediator(this);
+				ApplicationFacade.getInstance().registerMediator(homeMediator);
+			}
+			
+		]]>
+	</mx:Script>
+	<mx:VBox width="100%" height="100%" verticalGap="0">
+		<mx:HBox width="100%" horizontalGap="0">
+			<mx:HBox  width="585" height="78" backgroundImage="{RegLogoImg.logoleft}">
+				
+			</mx:HBox>
+			<mx:HBox width="100%" height="78" backgroundImage="{RegLogoImg.logocenter}" backgroundSize="100%">
+				
+			</mx:HBox>
+			<mx:HBox width="307" height="78" backgroundImage="{RegLogoImg.logoright}">
+				
+			</mx:HBox>
+		</mx:HBox>
+		<mx:HBox width="100%" height="33" paddingTop="5" backgroundImage="{RegLogoImg.toolbartop}" backgroundSize="100%">
+			<mx:Spacer width="10"/>
+			<zxl:PopupLinkButton icon="{RegIcon.setting}" label="设置">
+				
+			</zxl:PopupLinkButton>
+			<mx:Spacer width="100%"/>
+			<mx:LinkButton id="home" icon="{RegIcon.home}" label="主页">
+				
+			</mx:LinkButton>
+			<mx:LinkButton icon="{RegIcon.onlineuser}" label="在线人员">
+				
+			</mx:LinkButton>
+			<mx:LinkButton icon="{RegIcon.changepassword}" label="修改密码">
+				
+			</mx:LinkButton>
+			<mx:LinkButton id="exit" icon="{RegIcon.exit}" label="退出">
+				
+			</mx:LinkButton>
+		</mx:HBox>
+		<mx:HDividedBox id="_dividedBox" width="100%" height="100%" backgroundColor="#e0f0ff">
+					<mx:Accordion id="_navigator" width="200" height="100%" >
+						<mx:VBox id="pointManage" icon="{RegIcon.point}" label="网点管理" width="100%" paddingLeft="15">
+						</mx:VBox>
+						<mx:VBox id="userManage" icon="{RegIcon.user}" label="用户管理" width="100%" paddingLeft="15">
+						</mx:VBox>
+						<mx:VBox id="translateManage" icon="{RegIcon.translate}" label="调度管理" width="100%" paddingLeft="15">
+						</mx:VBox>
+						<mx:VBox id="businessManage" icon="{RegIcon.business}" label="业务管理" width="100%" paddingLeft="15">
+						</mx:VBox>
+						<mx:VBox id="depositManage" icon="{RegIcon.deposit}" label="备付金管理" width="100%" paddingLeft="15">
+						</mx:VBox>
+						<mx:VBox id="reportManage" icon="{RegIcon.report}" label="报表管理" width="100%" paddingLeft="15">
+						</mx:VBox>
+					</mx:Accordion>
+				
+				<flexlib:SuperTabNavigator id="_tabNavigator" width="100%" height="100%" paddingTop="0" horizontalGap="0" closePolicy="{_tabNavigatorClosePolicy}">
+				</flexlib:SuperTabNavigator>
+			
+		</mx:HDividedBox>
+		<mx:HBox width="100%" height="20" backgroundImage="{RegLogoImg.toolbarbottom}" backgroundSize="100%">
+			<mx:Spacer width="100%"/>
+			<mx:LinkButton id="noreadmessage" icon="{RegIcon.noreadmessages}" label="未读消息">
+				
+			</mx:LinkButton>
+			<mx:LinkButton icon="{RegIcon.allmessages}" label="所有消息">
+				
+			</mx:LinkButton>
+		</mx:HBox>
+	</mx:VBox>
+</window:ZxlWindow>
