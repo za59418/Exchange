@@ -1,9 +1,0 @@
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\bin\Debug\ZXL.Exchange.Service.dll
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\bin\Debug\ZXL.Exchange.Service.pdb
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\bin\Debug\FluorineFx.dll
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\bin\Debug\antlr.runtime.dll
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\bin\Debug\log4net.dll
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\obj\Debug\ResolveAssemblyReference.cache
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\obj\Debug\ZXL.Exchange.Service.dll
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\obj\Debug\ZXL.Exchange.Service.pdb
-E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\bin\Debug\MySql.Data.dll
