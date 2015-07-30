@@ -1,0 +1,541 @@
+2011-12-10 00:08:54,664 [2] INFO  FluorineFx.Messaging.MessageServer - Stopping Message Broker
+2011-12-10 00:08:54,683 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopping RtmpEndpoint
+2011-12-10 00:08:54,684 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:08:54,691 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:08:54,692 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:08:54,692 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:08:54,693 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopped RtmpEndpoint
+2011-12-10 00:08:54,764 [2] INFO  FluorineFx.FluorineGateway - Stopped FluorineFx Gateway
+2011-12-10 00:10:46,804 [3] INFO  FluorineFx.FluorineGateway - Adding handler for the DomainUnload event
+2011-12-10 00:10:47,323 [3] INFO  FluorineFx.FluorineGateway - Aquire ServiceBrowser renderer
+2011-12-10 00:10:47,379 [3] DEBUG FluorineFx.TypeHelper - Checking FluorineFx location
+2011-12-10 00:10:47,379 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901
+2011-12-10 00:10:47,379 [3] DEBUG FluorineFx.TypeHelper - Checking DynamicDirectory
+2011-12-10 00:10:47,379 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05
+2011-12-10 00:10:47,379 [3] DEBUG FluorineFx.TypeHelper - Checking Request PhysicalApplicationPath
+2011-12-10 00:10:47,379 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin
+2011-12-10 00:10:47,379 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\Bin
+2011-12-10 00:10:47,383 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:10:47,387 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:10:47,388 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\a7772a7b\00beb281_ec53c601\log4net.DLL
+2011-12-10 00:10:47,392 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\antlr.runtime.dll
+2011-12-10 00:10:47,599 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.dll
+2011-12-10 00:10:47,604 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.ServiceBrowser.dll
+2011-12-10 00:10:47,780 [3] INFO  FluorineFx.FluorineGateway - Aquired ServiceBrowser renderer
+2011-12-10 00:10:47,780 [3] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:10:47,780 [3] INFO  FluorineFx.FluorineGateway - Starting FluorineFx Gateway
+2011-12-10 00:10:47,781 [3] INFO  FluorineFx.FluorineGateway - FluorineFx version 1.0.0.15
+2011-12-10 00:10:47,781 [3] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:10:47,781 [3] INFO  FluorineFx.FluorineGateway - Creating Message Server
+2011-12-10 00:10:47,799 [3] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading services configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\services-config.xml
+2011-12-10 00:10:47,806 [3] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\remoting-config.xml
+2011-12-10 00:10:47,826 [3] INFO  FluorineFx.Messaging.MessageServer - Starting Message Broker
+2011-12-10 00:10:47,860 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting RtmpEndpoint
+2011-12-10 00:10:47,861 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting server, listening on port 1937
+2011-12-10 00:10:47,863 [3] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Starting SocketServer
+2011-12-10 00:10:47,882 [3] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Started SocketServer
+2011-12-10 00:10:47,883 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Started RtmpEndpoint
+2011-12-10 00:10:47,883 [3] INFO  FluorineFx.FluorineGateway - Message Server started
+2011-12-10 00:10:54,140 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:10:54,141 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:10:54,157 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.CommandMessage loaded
+2011-12-10 00:10:54,178 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:10:54,178 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:10:54,213 [3] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client b6cab7e52cf74eaaa8c2c95e97f4f06a
+2011-12-10 00:10:54,220 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing CommandMessage ping
+2011-12-10 00:10:54,257 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:10:54,282 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:10:54,283 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:10:54,283 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:10:54,284 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:10:54,286 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:10:54,295 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:10:54,297 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_thpfl-iw.dll
+2011-12-10 00:10:54,299 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\99c8f998_8bb6cc01\MySql.Data.DLL
+2011-12-10 00:10:54,302 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:10:54,303 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:10:54,305 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\edad7214_8db6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:10:54,311 [3] ERROR FluorineFx.MethodHandler - Could not find a suitable method with name GetPointList
+2011-12-10 00:10:54,312 [3] ERROR FluorineFx.Messaging.MessageBroker - Could not find a suitable method with name GetPointList
+FluorineFx.Messaging.MessageException: Could not find a suitable method with name GetPointList ---> FluorineFx.Exceptions.FluorineException: Could not find a suitable method with name GetPointList
+   在 FluorineFx.MethodHandler.GetMethod(Type type, String methodName, IList arguments, Boolean exactMatch, Boolean throwException, Boolean traceError)
+   在 FluorineFx.Remoting.RemotingAdapter.Invoke(IMessage message)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 FluorineFx.Remoting.RemotingAdapter.Invoke(IMessage message)
+   在 FluorineFx.Messaging.Services.RemotingService.ServiceMessage(IMessage message)
+   在 FluorineFx.Messaging.MessageBroker.RouteMessage(IMessage message, IEndpoint endpoint)
+2011-12-10 00:10:54,366 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:12:00,042 [7] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager cache expired, clientId b6cab7e52cf74eaaa8c2c95e97f4f06a
+2011-12-10 00:12:00,042 [7] DEBUG FluorineFx.Messaging.Client - Timeout Client b6cab7e52cf74eaaa8c2c95e97f4f06a
+2011-12-10 00:12:00,045 [7] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager removing subscriber b6cab7e52cf74eaaa8c2c95e97f4f06a
+2011-12-10 00:12:10,733 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:12:10,733 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:12:10,734 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.CommandMessage loaded
+2011-12-10 00:12:10,734 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:12:10,734 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:12:10,734 [3] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client 66b9831c93a04a1b942a67056bd99c8e
+2011-12-10 00:12:10,734 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing CommandMessage ping
+2011-12-10 00:12:10,734 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:12:10,757 [7] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:12:10,757 [7] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:12:10,757 [7] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:12:10,757 [7] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:12:10,758 [7] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:12:10,758 [7] ERROR FluorineFx.MethodHandler - Could not find a suitable method with name GetPointList
+2011-12-10 00:12:10,758 [7] ERROR FluorineFx.Messaging.MessageBroker - Could not find a suitable method with name GetPointList
+FluorineFx.Messaging.MessageException: Could not find a suitable method with name GetPointList ---> FluorineFx.Exceptions.FluorineException: Could not find a suitable method with name GetPointList
+   在 FluorineFx.MethodHandler.GetMethod(Type type, String methodName, IList arguments, Boolean exactMatch, Boolean throwException, Boolean traceError)
+   在 FluorineFx.Remoting.RemotingAdapter.Invoke(IMessage message)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 FluorineFx.Remoting.RemotingAdapter.Invoke(IMessage message)
+   在 FluorineFx.Messaging.Services.RemotingService.ServiceMessage(IMessage message)
+   在 FluorineFx.Messaging.MessageBroker.RouteMessage(IMessage message, IEndpoint endpoint)
+2011-12-10 00:12:10,759 [7] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:13:20,082 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager cache expired, clientId 66b9831c93a04a1b942a67056bd99c8e
+2011-12-10 00:13:20,082 [3] DEBUG FluorineFx.Messaging.Client - Timeout Client 66b9831c93a04a1b942a67056bd99c8e
+2011-12-10 00:13:20,082 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager removing subscriber 66b9831c93a04a1b942a67056bd99c8e
+2011-12-10 00:13:30,422 [2] INFO  FluorineFx.Messaging.MessageServer - Stopping Message Broker
+2011-12-10 00:13:30,426 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopping RtmpEndpoint
+2011-12-10 00:13:30,427 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:13:30,433 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:13:30,434 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:13:30,434 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:13:30,435 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopped RtmpEndpoint
+2011-12-10 00:13:30,446 [2] INFO  FluorineFx.FluorineGateway - Stopped FluorineFx Gateway
+2011-12-10 00:13:37,629 [3] INFO  FluorineFx.FluorineGateway - Adding handler for the DomainUnload event
+2011-12-10 00:13:38,174 [3] INFO  FluorineFx.FluorineGateway - Aquire ServiceBrowser renderer
+2011-12-10 00:13:38,220 [3] DEBUG FluorineFx.TypeHelper - Checking FluorineFx location
+2011-12-10 00:13:38,221 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901
+2011-12-10 00:13:38,221 [3] DEBUG FluorineFx.TypeHelper - Checking DynamicDirectory
+2011-12-10 00:13:38,221 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05
+2011-12-10 00:13:38,221 [3] DEBUG FluorineFx.TypeHelper - Checking Request PhysicalApplicationPath
+2011-12-10 00:13:38,221 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin
+2011-12-10 00:13:38,221 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\Bin
+2011-12-10 00:13:38,289 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:13:38,294 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:13:38,295 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\a7772a7b\00beb281_ec53c601\log4net.DLL
+2011-12-10 00:13:38,298 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\antlr.runtime.dll
+2011-12-10 00:13:38,329 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.dll
+2011-12-10 00:13:38,331 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.ServiceBrowser.dll
+2011-12-10 00:13:38,431 [3] INFO  FluorineFx.FluorineGateway - Aquired ServiceBrowser renderer
+2011-12-10 00:13:38,431 [3] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:13:38,431 [3] INFO  FluorineFx.FluorineGateway - Starting FluorineFx Gateway
+2011-12-10 00:13:38,431 [3] INFO  FluorineFx.FluorineGateway - FluorineFx version 1.0.0.15
+2011-12-10 00:13:38,431 [3] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:13:38,431 [3] INFO  FluorineFx.FluorineGateway - Creating Message Server
+2011-12-10 00:13:38,447 [3] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading services configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\services-config.xml
+2011-12-10 00:13:38,453 [3] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\remoting-config.xml
+2011-12-10 00:13:38,472 [3] INFO  FluorineFx.Messaging.MessageServer - Starting Message Broker
+2011-12-10 00:13:38,500 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting RtmpEndpoint
+2011-12-10 00:13:38,501 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting server, listening on port 1937
+2011-12-10 00:13:38,503 [3] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Starting SocketServer
+2011-12-10 00:13:38,521 [3] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Started SocketServer
+2011-12-10 00:13:38,521 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Started RtmpEndpoint
+2011-12-10 00:13:38,521 [3] INFO  FluorineFx.FluorineGateway - Message Server started
+2011-12-10 00:13:44,429 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:13:44,429 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:13:44,445 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.CommandMessage loaded
+2011-12-10 00:13:44,466 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:13:44,466 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:13:44,502 [3] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client 8cb0328d37384e218ab383b23aa0206f
+2011-12-10 00:13:44,509 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing CommandMessage ping
+2011-12-10 00:13:44,548 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:13:44,575 [7] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:13:44,575 [7] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:13:44,575 [7] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:13:44,576 [7] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:13:44,578 [7] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:13:44,587 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:13:44,591 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_zqwyjqsx.dll
+2011-12-10 00:13:44,594 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\99c8f998_8bb6cc01\MySql.Data.DLL
+2011-12-10 00:13:44,597 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:13:44,598 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:13:44,600 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\2dae6c7d_8db6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:13:44,607 [7] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.GetPointList
+2011-12-10 00:13:44,702 [7] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:14:45,755 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager cache expired, clientId 8cb0328d37384e218ab383b23aa0206f
+2011-12-10 00:14:45,756 [3] DEBUG FluorineFx.Messaging.Client - Timeout Client 8cb0328d37384e218ab383b23aa0206f
+2011-12-10 00:14:45,763 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager removing subscriber 8cb0328d37384e218ab383b23aa0206f
+2011-12-10 00:14:46,015 [2] INFO  FluorineFx.Messaging.MessageServer - Stopping Message Broker
+2011-12-10 00:14:46,019 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopping RtmpEndpoint
+2011-12-10 00:14:46,020 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:14:46,027 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:14:46,028 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:14:46,028 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:14:46,029 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopped RtmpEndpoint
+2011-12-10 00:14:46,035 [2] INFO  FluorineFx.FluorineGateway - Stopped FluorineFx Gateway
+2011-12-10 00:22:16,365 [7] INFO  FluorineFx.FluorineGateway - Adding handler for the DomainUnload event
+2011-12-10 00:22:16,876 [7] INFO  FluorineFx.FluorineGateway - Aquire ServiceBrowser renderer
+2011-12-10 00:22:16,923 [7] DEBUG FluorineFx.TypeHelper - Checking FluorineFx location
+2011-12-10 00:22:16,923 [7] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901
+2011-12-10 00:22:16,923 [7] DEBUG FluorineFx.TypeHelper - Checking DynamicDirectory
+2011-12-10 00:22:16,923 [7] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05
+2011-12-10 00:22:16,923 [7] DEBUG FluorineFx.TypeHelper - Checking Request PhysicalApplicationPath
+2011-12-10 00:22:16,923 [7] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin
+2011-12-10 00:22:16,923 [7] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\Bin
+2011-12-10 00:22:16,927 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:22:16,932 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:22:16,933 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\a7772a7b\00beb281_ec53c601\log4net.DLL
+2011-12-10 00:22:16,936 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\antlr.runtime.dll
+2011-12-10 00:22:17,091 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.dll
+2011-12-10 00:22:17,095 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.ServiceBrowser.dll
+2011-12-10 00:22:17,173 [7] INFO  FluorineFx.FluorineGateway - Aquired ServiceBrowser renderer
+2011-12-10 00:22:17,174 [7] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:22:17,174 [7] INFO  FluorineFx.FluorineGateway - Starting FluorineFx Gateway
+2011-12-10 00:22:17,174 [7] INFO  FluorineFx.FluorineGateway - FluorineFx version 1.0.0.15
+2011-12-10 00:22:17,174 [7] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:22:17,174 [7] INFO  FluorineFx.FluorineGateway - Creating Message Server
+2011-12-10 00:22:17,188 [7] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading services configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\services-config.xml
+2011-12-10 00:22:17,193 [7] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\remoting-config.xml
+2011-12-10 00:22:17,211 [7] INFO  FluorineFx.Messaging.MessageServer - Starting Message Broker
+2011-12-10 00:22:17,267 [7] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting RtmpEndpoint
+2011-12-10 00:22:17,268 [7] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting server, listening on port 1937
+2011-12-10 00:22:17,270 [7] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Starting SocketServer
+2011-12-10 00:22:17,291 [7] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Started SocketServer
+2011-12-10 00:22:17,291 [7] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Started RtmpEndpoint
+2011-12-10 00:22:17,291 [7] INFO  FluorineFx.FluorineGateway - Message Server started
+2011-12-10 00:22:26,009 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:22:26,011 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:22:26,027 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.CommandMessage loaded
+2011-12-10 00:22:26,049 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:22:26,050 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:22:26,084 [3] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client 0200c212ea4d461eb3de9d4d1cc5750c
+2011-12-10 00:22:26,092 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing CommandMessage ping
+2011-12-10 00:22:26,156 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:22:26,184 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:22:26,184 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:22:26,184 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:22:26,185 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:22:26,187 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:22:26,196 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:22:26,197 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_sfbogbrq.dll
+2011-12-10 00:22:26,199 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\0036185a_b8e4c701\MySql.Data.DLL
+2011-12-10 00:22:26,202 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:22:26,203 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:22:26,207 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\ba00ebab_8eb6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:22:26,214 [3] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.GetPointList
+2011-12-10 00:22:26,311 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:23:07,374 [2] INFO  FluorineFx.Messaging.MessageServer - Stopping Message Broker
+2011-12-10 00:23:07,376 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopping RtmpEndpoint
+2011-12-10 00:23:07,376 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:23:07,379 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:23:07,379 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:23:07,379 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:23:07,380 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopped RtmpEndpoint
+2011-12-10 00:23:07,383 [2] INFO  FluorineFx.FluorineGateway - Stopped FluorineFx Gateway
+2011-12-10 00:23:21,231 [7] INFO  FluorineFx.FluorineGateway - Adding handler for the DomainUnload event
+2011-12-10 00:23:22,353 [7] INFO  FluorineFx.FluorineGateway - Aquire ServiceBrowser renderer
+2011-12-10 00:23:22,447 [7] DEBUG FluorineFx.TypeHelper - Checking FluorineFx location
+2011-12-10 00:23:22,447 [7] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901
+2011-12-10 00:23:22,448 [7] DEBUG FluorineFx.TypeHelper - Checking DynamicDirectory
+2011-12-10 00:23:22,448 [7] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05
+2011-12-10 00:23:22,448 [7] DEBUG FluorineFx.TypeHelper - Checking Request PhysicalApplicationPath
+2011-12-10 00:23:22,448 [7] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin
+2011-12-10 00:23:22,448 [7] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\Bin
+2011-12-10 00:23:22,454 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:23:22,458 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_sfbogbrq.dll
+2011-12-10 00:23:22,481 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\0036185a_b8e4c701\MySql.Data.DLL
+2011-12-10 00:23:22,505 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:23:22,506 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:23:22,521 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\ba00ebab_8eb6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:23:22,536 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\5df28231\00763171_90f1c701\ICSharpCode.SharpZipLib.DLL
+2011-12-10 00:23:22,547 [7] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\9e1a9667\00f9a7de_5c44c901\FluorineFx.ServiceBrowser.DLL
+2011-12-10 00:23:22,561 [7] INFO  FluorineFx.FluorineGateway - Aquired ServiceBrowser renderer
+2011-12-10 00:23:22,562 [7] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:23:22,562 [7] INFO  FluorineFx.FluorineGateway - Starting FluorineFx Gateway
+2011-12-10 00:23:22,562 [7] INFO  FluorineFx.FluorineGateway - FluorineFx version 1.0.0.15
+2011-12-10 00:23:22,562 [7] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:23:22,562 [7] INFO  FluorineFx.FluorineGateway - Creating Message Server
+2011-12-10 00:23:22,572 [7] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading services configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\services-config.xml
+2011-12-10 00:23:22,581 [7] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\remoting-config.xml
+2011-12-10 00:23:22,602 [7] INFO  FluorineFx.Messaging.MessageServer - Starting Message Broker
+2011-12-10 00:23:22,677 [7] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting RtmpEndpoint
+2011-12-10 00:23:22,678 [7] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting server, listening on port 1937
+2011-12-10 00:23:22,681 [7] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Starting SocketServer
+2011-12-10 00:23:22,701 [7] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Started SocketServer
+2011-12-10 00:23:22,701 [7] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Started RtmpEndpoint
+2011-12-10 00:23:22,701 [7] INFO  FluorineFx.FluorineGateway - Message Server started
+2011-12-10 00:23:28,716 [7] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:23:28,717 [7] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:23:28,734 [7] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.CommandMessage loaded
+2011-12-10 00:23:28,752 [7] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:23:28,753 [7] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:23:28,774 [7] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client 03aac2a3d0c74f5993de9e37a81c795d
+2011-12-10 00:23:28,780 [7] DEBUG FluorineFx.Messaging.MessageBroker - Routing CommandMessage ping
+2011-12-10 00:23:28,817 [7] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:23:28,853 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:23:28,853 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:23:28,853 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:23:28,854 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:23:28,856 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:23:28,865 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:23:28,866 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_sfbogbrq.dll
+2011-12-10 00:23:28,868 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\0036185a_b8e4c701\MySql.Data.DLL
+2011-12-10 00:23:28,870 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:23:28,871 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:23:28,872 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\ba00ebab_8eb6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:23:28,881 [3] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.GetPointList
+2011-12-10 00:25:23,901 [3] INFO  FluorineFx.FluorineGateway - Adding handler for the DomainUnload event
+2011-12-10 00:25:24,588 [3] INFO  FluorineFx.FluorineGateway - Aquire ServiceBrowser renderer
+2011-12-10 00:25:24,685 [3] DEBUG FluorineFx.TypeHelper - Checking FluorineFx location
+2011-12-10 00:25:24,686 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901
+2011-12-10 00:25:24,686 [3] DEBUG FluorineFx.TypeHelper - Checking DynamicDirectory
+2011-12-10 00:25:24,686 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05
+2011-12-10 00:25:24,686 [3] DEBUG FluorineFx.TypeHelper - Checking Request PhysicalApplicationPath
+2011-12-10 00:25:24,686 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin
+2011-12-10 00:25:24,686 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\Bin
+2011-12-10 00:25:24,691 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:25:24,695 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_sfbogbrq.dll
+2011-12-10 00:25:24,701 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\0036185a_b8e4c701\MySql.Data.DLL
+2011-12-10 00:25:24,708 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:25:24,709 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:25:24,715 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\ba00ebab_8eb6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:25:24,721 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\5df28231\00763171_90f1c701\ICSharpCode.SharpZipLib.DLL
+2011-12-10 00:25:24,727 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\9e1a9667\00f9a7de_5c44c901\FluorineFx.ServiceBrowser.DLL
+2011-12-10 00:25:24,731 [3] INFO  FluorineFx.FluorineGateway - Aquired ServiceBrowser renderer
+2011-12-10 00:25:24,732 [3] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:25:24,732 [3] INFO  FluorineFx.FluorineGateway - Starting FluorineFx Gateway
+2011-12-10 00:25:24,732 [3] INFO  FluorineFx.FluorineGateway - FluorineFx version 1.0.0.15
+2011-12-10 00:25:24,732 [3] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:25:24,732 [3] INFO  FluorineFx.FluorineGateway - Creating Message Server
+2011-12-10 00:25:24,745 [3] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading services configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\services-config.xml
+2011-12-10 00:25:24,751 [3] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\remoting-config.xml
+2011-12-10 00:25:24,771 [3] INFO  FluorineFx.Messaging.MessageServer - Starting Message Broker
+2011-12-10 00:25:24,800 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting RtmpEndpoint
+2011-12-10 00:25:24,801 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting server, listening on port 1937
+2011-12-10 00:25:24,803 [3] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Starting SocketServer
+2011-12-10 00:25:24,824 [3] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Started SocketServer
+2011-12-10 00:25:24,825 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Started RtmpEndpoint
+2011-12-10 00:25:24,825 [3] INFO  FluorineFx.FluorineGateway - Message Server started
+2011-12-10 00:25:24,862 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:25:24,863 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:25:24,879 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:25:24,901 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:25:24,941 [3] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client 03aac2a3d0c74f5993de9e37a81c795d
+2011-12-10 00:25:24,948 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:25:24,958 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:25:24,959 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_sfbogbrq.dll
+2011-12-10 00:25:24,962 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\0036185a_b8e4c701\MySql.Data.DLL
+2011-12-10 00:25:24,963 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:25:24,964 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:25:24,965 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\ba00ebab_8eb6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:25:24,971 [3] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.GetPointList
+2011-12-10 00:25:25,114 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:25:57,049 [2] INFO  FluorineFx.Messaging.MessageServer - Stopping Message Broker
+2011-12-10 00:25:57,051 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopping RtmpEndpoint
+2011-12-10 00:25:57,051 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:25:57,053 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:25:57,054 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:25:57,054 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:25:57,054 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopped RtmpEndpoint
+2011-12-10 00:25:57,058 [2] INFO  FluorineFx.FluorineGateway - Stopped FluorineFx Gateway
+2011-12-10 00:26:10,746 [6] INFO  FluorineFx.FluorineGateway - Adding handler for the DomainUnload event
+2011-12-10 00:26:11,458 [6] INFO  FluorineFx.FluorineGateway - Aquire ServiceBrowser renderer
+2011-12-10 00:26:11,541 [6] DEBUG FluorineFx.TypeHelper - Checking FluorineFx location
+2011-12-10 00:26:11,541 [6] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901
+2011-12-10 00:26:11,542 [6] DEBUG FluorineFx.TypeHelper - Checking DynamicDirectory
+2011-12-10 00:26:11,542 [6] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05
+2011-12-10 00:26:11,542 [6] DEBUG FluorineFx.TypeHelper - Checking Request PhysicalApplicationPath
+2011-12-10 00:26:11,542 [6] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin
+2011-12-10 00:26:11,542 [6] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\Bin
+2011-12-10 00:26:11,548 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:26:11,561 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:26:11,562 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\a7772a7b\00beb281_ec53c601\log4net.DLL
+2011-12-10 00:26:11,572 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\antlr.runtime.dll
+2011-12-10 00:26:11,614 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.dll
+2011-12-10 00:26:11,619 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.ServiceBrowser.dll
+2011-12-10 00:26:11,689 [6] INFO  FluorineFx.FluorineGateway - Aquired ServiceBrowser renderer
+2011-12-10 00:26:11,689 [6] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:26:11,689 [6] INFO  FluorineFx.FluorineGateway - Starting FluorineFx Gateway
+2011-12-10 00:26:11,689 [6] INFO  FluorineFx.FluorineGateway - FluorineFx version 1.0.0.15
+2011-12-10 00:26:11,689 [6] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:26:11,689 [6] INFO  FluorineFx.FluorineGateway - Creating Message Server
+2011-12-10 00:26:11,700 [6] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading services configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\services-config.xml
+2011-12-10 00:26:11,707 [6] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\remoting-config.xml
+2011-12-10 00:26:11,733 [6] INFO  FluorineFx.Messaging.MessageServer - Starting Message Broker
+2011-12-10 00:26:11,796 [6] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting RtmpEndpoint
+2011-12-10 00:26:11,797 [6] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting server, listening on port 1937
+2011-12-10 00:26:11,799 [6] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Starting SocketServer
+2011-12-10 00:26:11,841 [6] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Started SocketServer
+2011-12-10 00:26:11,841 [6] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Started RtmpEndpoint
+2011-12-10 00:26:11,841 [6] INFO  FluorineFx.FluorineGateway - Message Server started
+2011-12-10 00:26:19,927 [6] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:26:19,928 [6] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:26:19,945 [6] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.CommandMessage loaded
+2011-12-10 00:26:19,964 [6] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:26:19,965 [6] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:26:19,987 [6] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client e7db51589b7948e98216e9b3574c50a6
+2011-12-10 00:26:19,993 [6] DEBUG FluorineFx.Messaging.MessageBroker - Routing CommandMessage ping
+2011-12-10 00:26:20,030 [6] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:26:20,053 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:26:20,053 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:26:20,054 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:26:20,055 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:26:20,057 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:26:20,066 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:26:20,067 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_zmiugzut.dll
+2011-12-10 00:26:20,069 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\0036185a_b8e4c701\MySql.Data.DLL
+2011-12-10 00:26:20,073 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:26:20,074 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:26:20,082 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\b815813a_8fb6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:26:20,090 [3] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.GetPointList
+2011-12-10 00:26:24,874 [3] ERROR FluorineFx.Messaging.MessageBroker - 未将对象引用设置到对象的实例。
+FluorineFx.Messaging.MessageException: 未将对象引用设置到对象的实例。 ---> System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZXL.Exchange.Service.Db.GetConnection() 位置 E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\Db\Db.cs:行号 15
+   在 ZXL.Exchange.Service.Point.PointService.GetPointList(String strWhere) 位置 E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\Point\PointService.cs:行号 25
+   在 ZXL.Exchange.Service.Point.PointService.GetPointList() 位置 E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service\Point\PointService.cs:行号 21
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 FluorineFx.Remoting.RemotingAdapter.Invoke(IMessage message)
+   在 FluorineFx.Messaging.Services.RemotingService.ServiceMessage(IMessage message)
+   在 FluorineFx.Messaging.MessageBroker.RouteMessage(IMessage message, IEndpoint endpoint)
+2011-12-10 00:26:24,933 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:27:20,059 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager cache expired, clientId e7db51589b7948e98216e9b3574c50a6
+2011-12-10 00:27:20,059 [3] DEBUG FluorineFx.Messaging.Client - Timeout Client e7db51589b7948e98216e9b3574c50a6
+2011-12-10 00:27:20,065 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager removing subscriber e7db51589b7948e98216e9b3574c50a6
+2011-12-10 00:27:30,010 [2] INFO  FluorineFx.Messaging.MessageServer - Stopping Message Broker
+2011-12-10 00:27:30,013 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopping RtmpEndpoint
+2011-12-10 00:27:30,013 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:27:30,016 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:27:30,016 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:27:30,016 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:27:30,017 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopped RtmpEndpoint
+2011-12-10 00:27:30,020 [2] INFO  FluorineFx.FluorineGateway - Stopped FluorineFx Gateway
+2011-12-10 00:27:43,431 [6] INFO  FluorineFx.FluorineGateway - Adding handler for the DomainUnload event
+2011-12-10 00:27:43,980 [6] INFO  FluorineFx.FluorineGateway - Aquire ServiceBrowser renderer
+2011-12-10 00:27:44,055 [6] DEBUG FluorineFx.TypeHelper - Checking FluorineFx location
+2011-12-10 00:27:44,055 [6] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901
+2011-12-10 00:27:44,056 [6] DEBUG FluorineFx.TypeHelper - Checking DynamicDirectory
+2011-12-10 00:27:44,056 [6] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05
+2011-12-10 00:27:44,056 [6] DEBUG FluorineFx.TypeHelper - Checking Request PhysicalApplicationPath
+2011-12-10 00:27:44,056 [6] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin
+2011-12-10 00:27:44,056 [6] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\Bin
+2011-12-10 00:27:44,059 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:27:44,065 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:27:44,066 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\a7772a7b\00beb281_ec53c601\log4net.DLL
+2011-12-10 00:27:44,072 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\antlr.runtime.dll
+2011-12-10 00:27:44,109 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.dll
+2011-12-10 00:27:44,112 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.ServiceBrowser.dll
+2011-12-10 00:27:44,165 [6] INFO  FluorineFx.FluorineGateway - Aquired ServiceBrowser renderer
+2011-12-10 00:27:44,165 [6] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:27:44,165 [6] INFO  FluorineFx.FluorineGateway - Starting FluorineFx Gateway
+2011-12-10 00:27:44,165 [6] INFO  FluorineFx.FluorineGateway - FluorineFx version 1.0.0.15
+2011-12-10 00:27:44,165 [6] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:27:44,165 [6] INFO  FluorineFx.FluorineGateway - Creating Message Server
+2011-12-10 00:27:44,176 [6] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading services configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\services-config.xml
+2011-12-10 00:27:44,180 [6] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\remoting-config.xml
+2011-12-10 00:27:44,201 [6] INFO  FluorineFx.Messaging.MessageServer - Starting Message Broker
+2011-12-10 00:27:44,232 [6] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting RtmpEndpoint
+2011-12-10 00:27:44,236 [6] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting server, listening on port 1937
+2011-12-10 00:27:44,238 [6] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Starting SocketServer
+2011-12-10 00:27:44,257 [6] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Started SocketServer
+2011-12-10 00:27:44,257 [6] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Started RtmpEndpoint
+2011-12-10 00:27:44,257 [6] INFO  FluorineFx.FluorineGateway - Message Server started
+2011-12-10 00:27:51,684 [6] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:27:51,685 [6] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:27:51,702 [6] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.CommandMessage loaded
+2011-12-10 00:27:51,722 [6] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:27:51,723 [6] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:27:51,745 [6] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client 7a12946292684190bf60418951e53da3
+2011-12-10 00:27:51,750 [6] DEBUG FluorineFx.Messaging.MessageBroker - Routing CommandMessage ping
+2011-12-10 00:27:51,791 [6] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:27:51,836 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:27:51,836 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:27:51,836 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:27:51,837 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:27:51,839 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:27:51,849 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:27:51,850 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_qfm_ztlg.dll
+2011-12-10 00:27:51,853 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\0036185a_b8e4c701\MySql.Data.DLL
+2011-12-10 00:27:51,857 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:27:51,858 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:27:51,861 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\a8adfb71_8fb6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:27:51,870 [3] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.GetPointList
+2011-12-10 00:27:51,966 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:29:00,037 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager cache expired, clientId 7a12946292684190bf60418951e53da3
+2011-12-10 00:29:00,038 [3] DEBUG FluorineFx.Messaging.Client - Timeout Client 7a12946292684190bf60418951e53da3
+2011-12-10 00:29:00,040 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager removing subscriber 7a12946292684190bf60418951e53da3
+2011-12-10 00:29:38,278 [2] INFO  FluorineFx.Messaging.MessageServer - Stopping Message Broker
+2011-12-10 00:29:38,281 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopping RtmpEndpoint
+2011-12-10 00:29:38,282 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:29:38,288 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:29:38,290 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 00:29:38,290 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 00:29:38,291 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopped RtmpEndpoint
+2011-12-10 00:29:38,304 [2] INFO  FluorineFx.FluorineGateway - Stopped FluorineFx Gateway
+2011-12-10 00:46:46,376 [3] INFO  FluorineFx.FluorineGateway - Adding handler for the DomainUnload event
+2011-12-10 00:46:46,860 [3] INFO  FluorineFx.FluorineGateway - Aquire ServiceBrowser renderer
+2011-12-10 00:46:46,906 [3] DEBUG FluorineFx.TypeHelper - Checking FluorineFx location
+2011-12-10 00:46:46,906 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - Checking DynamicDirectory
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - Checking Request PhysicalApplicationPath
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - Adding LAC location E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\Bin
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\a7772a7b\00beb281_ec53c601\log4net.DLL
+2011-12-10 00:46:46,922 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\antlr.runtime.dll
+2011-12-10 00:46:46,984 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.dll
+2011-12-10 00:46:46,984 [3] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\bin\FluorineFx.ServiceBrowser.dll
+2011-12-10 00:46:47,172 [3] INFO  FluorineFx.FluorineGateway - Aquired ServiceBrowser renderer
+2011-12-10 00:46:47,172 [3] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:46:47,172 [3] INFO  FluorineFx.FluorineGateway - Starting FluorineFx Gateway
+2011-12-10 00:46:47,172 [3] INFO  FluorineFx.FluorineGateway - FluorineFx version 1.0.0.15
+2011-12-10 00:46:47,172 [3] INFO  FluorineFx.FluorineGateway - ************************************
+2011-12-10 00:46:47,172 [3] INFO  FluorineFx.FluorineGateway - Creating Message Server
+2011-12-10 00:46:47,187 [3] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading services configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\services-config.xml
+2011-12-10 00:46:47,203 [3] DEBUG FluorineFx.Messaging.Config.ServiceConfigSettings - Loading configuration file E:\Exchange\ZXL.Exchange.Engine\ZXL.Exchange.Service.WebSite\WEB-INF\flex\remoting-config.xml
+2011-12-10 00:46:47,218 [3] INFO  FluorineFx.Messaging.MessageServer - Starting Message Broker
+2011-12-10 00:46:47,250 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting RtmpEndpoint
+2011-12-10 00:46:47,250 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Starting server, listening on port 1937
+2011-12-10 00:46:47,250 [3] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Starting SocketServer
+2011-12-10 00:46:47,265 [3] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Started SocketServer
+2011-12-10 00:46:47,281 [3] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Started RtmpEndpoint
+2011-12-10 00:46:47,281 [3] INFO  FluorineFx.FluorineGateway - Message Server started
+2011-12-10 00:56:01,596 [6] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:56:01,597 [6] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:56:01,618 [6] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.CommandMessage loaded
+2011-12-10 00:56:01,639 [6] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:56:01,639 [6] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:56:01,679 [6] DEBUG FluorineFx.Messaging.ClientManager - Creating new Client d9151e49c92043c0b61734e9bb84d822
+2011-12-10 00:56:01,689 [6] DEBUG FluorineFx.Messaging.MessageBroker - Routing CommandMessage ping
+2011-12-10 00:56:01,729 [6] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:56:01,776 [6] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:56:01,776 [6] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:56:01,776 [6] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:56:01,776 [6] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:56:01,776 [6] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:56:01,792 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:56:01,792 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\App_Web_i4phi6sh.dll
+2011-12-10 00:56:01,792 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\13622e22\99c8f998_8bb6cc01\MySql.Data.DLL
+2011-12-10 00:56:01,792 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\2e571edf\00cc76dd_5c44c901\FluorineFx.DLL
+2011-12-10 00:56:01,807 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\39a728d2\005e8d5b_45b5c601\antlr.runtime.DLL
+2011-12-10 00:56:01,807 [6] DEBUG FluorineFx.TypeHelper - TypeHelper probing assembly C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\exchange\ee4ebf05\de00e28b\assembly\dl3\4355867a\47313708_92b6cc01\ZXL.Exchange.Service.DLL
+2011-12-10 00:56:01,807 [6] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.GetPointList
+2011-12-10 00:56:02,104 [6] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:56:09,436 [3] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:56:09,436 [3] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:56:09,436 [3] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:56:09,436 [3] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:56:09,436 [3] DEBUG FluorineFx.IO.AMFReader - Class definition ZXL.Exchange.Service.Point.PointVO loaded
+2011-12-10 00:56:09,763 [3] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:56:09,763 [3] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.AddPoint
+2011-12-10 00:56:10,029 [3] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:56:14,793 [6] DEBUG FluorineFx.FluorineGateway - Begin AMF request
+2011-12-10 00:56:14,793 [6] DEBUG FluorineFx.Messaging.MessageServer - Query endpoint endpointPath /exchange/Gateway.aspx contextPath /exchange
+2011-12-10 00:56:14,793 [6] DEBUG FluorineFx.IO.AMFReader - Class definition flex.messaging.messages.RemotingMessage loaded
+2011-12-10 00:56:14,793 [6] DEBUG FluorineFx.IO.AMFReader - Class definition (untyped) loaded
+2011-12-10 00:56:14,793 [6] DEBUG FluorineFx.Messaging.MessageBroker - Routing message RemotingMessage
+2011-12-10 00:56:14,793 [6] DEBUG FluorineFx.Invocation.InvocationHandler - Invoking method ZXL.Exchange.Service.Point.PointService.GetPointList
+2011-12-10 00:56:14,793 [6] DEBUG FluorineFx.FluorineGateway - End AMF request
+2011-12-10 00:57:20,451 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager cache expired, clientId d9151e49c92043c0b61734e9bb84d822
+2011-12-10 00:57:20,451 [3] DEBUG FluorineFx.Messaging.Client - Timeout Client d9151e49c92043c0b61734e9bb84d822
+2011-12-10 00:57:20,451 [3] DEBUG FluorineFx.Messaging.ClientManager - SubscriptionManager removing subscriber d9151e49c92043c0b61734e9bb84d822
+2011-12-10 01:16:17,938 [2] INFO  FluorineFx.Messaging.MessageServer - Stopping Message Broker
+2011-12-10 01:16:17,938 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopping RtmpEndpoint
+2011-12-10 01:16:17,938 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 01:16:17,938 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 01:16:17,938 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopping SocketServer
+2011-12-10 01:16:17,938 [2] INFO  FluorineFx.Messaging.Rtmp.RtmpServer - Stopped SocketServer
+2011-12-10 01:16:17,938 [2] INFO  FluorineFx.Messaging.Endpoints.RtmpEndpoint - Stopped RtmpEndpoint
+2011-12-10 01:16:17,954 [2] INFO  FluorineFx.FluorineGateway - Stopped FluorineFx Gateway
